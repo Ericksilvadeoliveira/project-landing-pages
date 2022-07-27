@@ -140,6 +140,9 @@ a:hover {
     gap: 40px;
 }
 
+.dbox {
+    padding: 15px;
+}
 .dbox p {
     width: 150px;
     text-align: center;
