@@ -154,4 +154,86 @@ a:hover {
     border-radius: 10px;
 }
 
+/*PENSAMENTO*/
+
+.pensamento {
+    background: #e5e7eb;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 150px 10px;
+}
+
+.frase {
+    color: #1f2937;
+    width: 900px;
+    font-size: 36px;
+    font-style: italic;
+    padding: 5px;
+    text-align: left;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.frase p {
+    padding: 10px;
+}
+
+.autor {
+    color: #1f2937;
+    font: 36px bold;
+    padding: 5px;
+    display: flex;
+    align-self: flex-end;
+    padding-right: 300px;
+}
+
+/*SIGN*/
+
+.sign {
+    background: #f9faf8;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 90px;
+}
+
+.signbox {
+    background: #3882f6;
+    width: 900px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 40px 80px;
+}
+
+.signbox button {
+    background: #3882f6;
+    color: #f9faf8;
+    font-size: 24px;
+    font-weight: bolder;
+    padding: 5px;
+    border: 2px solid #f9faf8;
+    border-radius: 8px;
+    margin: 10px;
+}
+.signtext {
+    color: #f9faf8;
+    width: 600px;
+    text-align: left;
+    padding: 10px;
+}
+
+/* FOOTER */
+
+.footer {
+    background: #1f2937;
+    color: #f9faf8;
+    text-align: center;
+    padding: 40px;
+}
+
 
