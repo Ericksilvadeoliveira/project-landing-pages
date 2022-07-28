@@ -16,6 +16,7 @@
 /* Header */
 
 .header {
+    width: 100vw;
     background: #1f2937;
     display: flex;
     justify-content: space-evenly;
